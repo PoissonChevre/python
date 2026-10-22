@@ -6,7 +6,8 @@ Exercises and notes from my Python learning path.
 
 I'm working toward a career in **DevOps**. I like automating things, and Python lets me go further than Bash: scripts for repetitive tasks, JSON and YAML handling, API calls. It also helps me understand how tools like Ansible work under the hood.
 
-📖 [Python documentation](https://docs.python.org/3/)
+[Python documentation](https://docs.python.org/3/)
+[Python built-in functions](https://docs.python.org/3/builtins/functions.html#input)
 
 ## Courses
 
